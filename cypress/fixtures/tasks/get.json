@@ -1,0 +1,69 @@
+{
+    "list": {
+        "user": {
+            "name": "Higor de Jesus",
+            "email": "testh4@gmail.com",
+            "password": "pwd123"
+        },
+        "tasks": [
+            {
+
+                "name": "Estud4r Testes",
+                "tags": []
+ 
+            },
+            {
+
+                "name": "leu um livro",
+                "tags": [
+                    "Divergente",
+                    "insurgente"
+                ]
+        
+            },
+            {
+      
+                "name": "Estud4r Cypress",
+                "tags": [
+                    "javascript",
+                    "web",
+                    "api",
+                    "banco de dados"
+                ]
+            },
+            {
+
+                "name": "testh@gmail.com",
+                "tags": []
+
+            }
+        ]   
+    },
+
+    "unique": {
+        "user": {
+            "name": "Tony Stark",
+            "email": "tony@gmail.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Construir a Mrk87",
+            "tags": [
+                "ark",
+                "nanotech",
+		        "friday"
+            ]
+        }   
+    },
+
+    "not_found": {
+        "user": {
+            "name": "Bruce Banner",
+            "email": "hulk@stark.com",
+            "password": "pwd123"
+        },
+        "task": {
+            "name": "Construir uma máquina de radiação gama"
+        }   
+    }
+}

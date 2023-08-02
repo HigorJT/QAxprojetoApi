@@ -1,0 +1,35 @@
+{
+    "login": {
+        "name": "trioqa",
+        "email": "trioqa@gmail.com",
+        "password": "35918422"
+    },
+    
+    "inv_pass": {
+        "email": "higordejesus2000@gmail.com",
+        "password": "3591"
+    },
+
+    "email_404": {
+        "email": "404@outlook.com",
+        "password": "3591"
+    },
+
+    "create": {
+        "name": "Higor Jesus",
+        "email": "higor@gmail.com",
+        "password": "pwd123"
+    },
+
+    "dup_email": {
+        "name": "James Gunn",
+        "email": "james@gmail.com",
+        "password": "pwd123"
+    },
+
+    "required": {
+        "name": "Margot Robbie",
+        "email": "margot@hotmail.com",
+        "password": "pwd123"
+    }
+}
